@@ -4,6 +4,9 @@
 
 The task is to create a simple website for recipe list. For this part, I decided to use plain CSS and Javascript instead of using a bootstrap.
 
+<img width="934" height="234" alt="image" src="https://github.com/user-attachments/assets/914f06a9-2c23-4a6f-8144-33e04042d36b" />
+
+
 ### Screen Recording
 
 https://github.com/user-attachments/assets/1e8881c4-34bd-4f73-bcb6-35b4227a80c7
