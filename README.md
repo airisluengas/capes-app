@@ -2,8 +2,6 @@
 
 ## Frontend_Development
 
-![alt text](/docs/image.png)
-
 The task is to create a simple website for recipe list. For this part, I decided to use plain CSS and Javascript instead of using a bootstrap.
 
 ### Screen Recording
