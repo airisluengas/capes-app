@@ -8,8 +8,13 @@ The task is to create a simple website for recipe list. For this part, I decided
 
 ### Screen Recording
 
-<video src="/docs/web.mp4" width="320" height="240" controls></video>
-<video src="/docs/mobile.mp4" width="320" height="240" controls></video>
+
+
+https://github.com/user-attachments/assets/1e8881c4-34bd-4f73-bcb6-35b4227a80c7
+
+
+
+https://github.com/user-attachments/assets/bf3b05d7-6609-41d7-9de1-29c08c7636dc
 
 ### How to run
 
@@ -35,3 +40,9 @@ The task is to create a simple website for recipe list. For this part, I decided
    Option 2: Use vs-code live server extension - Open Frontend_Developer folder in vscode and run using live server extension
 
 ## Backend_Development
+
+The task is to create a very simple mockup of an enlistment logic using Python classes.
+
+### Result:
+<img width="565" height="174" alt="image" src="https://github.com/user-attachments/assets/7526dee9-d9be-448e-b9a5-04da00d54610" />
+
